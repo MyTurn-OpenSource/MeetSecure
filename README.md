@@ -1,0 +1,2 @@
+# MeetSecure
+Social Distancing app
