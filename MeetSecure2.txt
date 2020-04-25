@@ -1,0 +1,17 @@
+MeetSecure for risk avoidance
+
+
+MeetSecure is a contagion containment application (app) allowing risk avoidance, as opposed to just the diagnostic confirmation offered by contact-tracing apps. That is, users can preempt an encounter based upon the risk of infection as estimated by the app. MeetSecure provides warnings of social distancing violations that may expose the user to health threats. 
+
+A Bluetooth radio negotiation channel is automatically established when another person’s smartphone comes within ten meters of the user’s phone. The other person receives a “Do not disturb” message from their phone, when they come within eight meter’s of the user. An alert is triggered, if they come closer without the user’s permission. A user would first receive a vibration from their phone warning of a social distancing violation. This allows them to cancel public responses in case they are unnecessary. The phone can speak a warning message, to stop a social distancing violation. A loud alarm signal and light flashes can follow, if necessary.
+
+Contact-tracing apps are unable to accurately determine the risk of an encounter. A combination of time and distance is typically used to indicate a risky contact. For example, co-presence within two meters for more than 20 minutes indicates possible transmission of the SARS-CoV-2 virus. However, two people might meet, hug, and kiss within one minute, thereby providing good conditions for transmission. This encounter would not satisfy the criteria for a risky contact. That is, a contact-tracing app would not record it as a contact that could have transmitted an infection, due to the short interaction time. MeetSecure divides personal space into four zones of interaction: none, vocal, bodily, and cellular/intimate. While a discussion at a distance less than a couple of meters provides some risk of transmission, a kiss makes the transfer of infectious particles very likely. 
+
+The user initializes the app by entering interaction preferences and by collecting data already online to be used in negotiation. One interaction preference can be bodily contact with a member of the opposite sex. A vaccination certificate or an immunity “passport” may be downloaded to the phone. Negotiation would end with a “Do not disturb” message, unless the approaching person was of the opposite sex and interested in bodily contact. The person would also have to present either a vaccination certificate or an immunity passport. This assumes that only the one interaction preference was entered and it was specified that the interaction must be safe. Otherwise, negotiation would proceed first to discussion and then to bodily contact, assuming mutual consent was obtained. Consent could be signaled by confidential indication of a decision, such as rotation of the phone until two vibrations were felt. At the conclusion of the interaction, there would be an accurate record of transmission risk. Users would also be able to show that they had conformed to social distancing rules and had obtained consent for the interaction.
+
+
+This video illustrates the concepts of diagnostic confirmation, risk avoidance, and advanced risk avoidance (Please note that it illustrates how a system of this type would function in a hospital setting.):
+
+https://www.icloud.com/iclouddrive/0704kMeGUK13pjAZXoq4hXx4w#VirusRadarSimulation3
+
+<https://www.icloud.com/iclouddrive/0704kMeGUK13pjAZXoq4hXx4w#VirusRadarSimulation3>
